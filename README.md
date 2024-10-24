@@ -59,7 +59,3 @@ To run this project locally, you will need to:
   - Plots of predicted vs actual lap times for each driver.
   - An error analysis showing the model's prediction accuracy.
 
-## Future Improvements
-- Incorporation of additional features like **weather conditions**, **tire strategies**, and **pit stop data**.
-- More advanced handling of **penalties and grid adjustments** to improve prediction accuracy.
-- Extending the dataset to include historical data from earlier seasons.
